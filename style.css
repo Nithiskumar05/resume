@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color:rgb(240, 227, 43);
+    background-color:black;
 }
 
 header {
-    background-color:rgb(240, 227, 43);
-    color: rgb(255, 255, 255);
+    background-color:orange;
+    color:black;
     text-align: center;
     padding: 2rem 0;
     position: relative;
@@ -29,8 +29,8 @@ header {
 }
 
 nav {
-    background-color:rgb(240, 227, 43);
-    color: #fff;
+    background-color:orange;
+    color: 000;
     text-align: center;
 }
 
@@ -53,7 +53,7 @@ nav ul {
     }
 
     .section-content {
-        background-color:#fff;
+        background-color:orange;
         padding: 2vh;
         margin: 1rem;
         border-radius: 20px;
@@ -79,8 +79,8 @@ nav ul {
     footer{
         text-align: center;
         padding: 1rem 0;
-        background-color:rgb(240, 227, 43);
-        color:  rgb(255, 255, 255);
+        background-color:orange;
+        color: black;
 
     }
 
